@@ -22,12 +22,13 @@ Servian provides the Tech Challenge to potential candidates, which focuses on de
 
 More details about the application can be found in the [document folder](doc/readme.md)
 
-## Taking the challenge
+### Taking the challenge
 
 For more information about taking the challenge and joining Servians's amazing team, please head over to our [recruitment page](https://www.servian.com/careers/) and apply there. Our recruitment team will reach out to you about the details of the test and be able to answer any questions you have about Servian or the test itself.
 
 Information about the assessment is available in the [assessment.md file](ASSESSMENT.md)
 
-## Found an issue?
+### Found an issue?
 
 If you've found an issue with the application, the documentation, or anything else, we are happy to take contributions. Please raise an issue in the [github repository](https://github.com/Servian/TechChallengeApp/issues) and read through the contribution rules found the [CONTRIBUTING.md](CONTRIBUTING.md) file for the details.
+ß
